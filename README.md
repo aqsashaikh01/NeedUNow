@@ -23,7 +23,7 @@ To deploy this project follow the following steps:
 
 ## Logo
 
-![Logo](https://github.com/aqsashaikh01/needunow/blob/master/NeedUNow%20-%20Solution%20Challenge%20'23.png)
+![Logo](https://github.com/aqsashaikh01/NeedUNow/blob/master/NeedUNow%20-%20Solution%20Challenge%20'23.png)
 
 
 
