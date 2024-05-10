@@ -23,7 +23,7 @@ To deploy this project follow the following steps:
 
 ## Logo
 
-![Logo](https://github.com/aqsashaikh01/needunow2/blob/master/NeedUNow%20-%20Solution%20Challenge%20'23.png)
+![Logo](https://github.com/aqsashaikh01/NeedUNow/blob/master/NeedUNow%20-%20Solution%20Challenge%20'23.png)
 
 
 
@@ -35,16 +35,16 @@ The motive of the NeedUNow application is to help people in case of any emergenc
 With it’s amazing features like, quick access to Helpline – Numbers and Life – Saving Tips, we at  NeedUNow wants our users to know that we care about them.
 
 #### Onboarding Screen
-![Onboarding Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/NeedUNow%20-%20Solution%20Challenge%20'23.png)
-![](https://github.com/aqsashaikh01/needunow/blob/master/Onboard2.jpg)
-![](https://github.com/aqsashaikh01/needunow/blob/master/Onboard3.jpg)
+![Onboarding Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/Onboard1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/Onboard2.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/Onboard3.jpg)
 
 
 #### Setup
 
-![Setup Screen](https://github.com/aqsashaikh01/needunow2/blob/master/setup1.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/setup2.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/setup3.jpg)
+![Setup Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/setup1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/setup2.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/setup3.jpg)
 
 
 #### Alerting your Companions
@@ -58,10 +58,10 @@ The Panic Message includes:
 - Emergency Type
 - Medical Info
 
-![Alert Companions](https://github.com/aqsashaikh01/needunow2/blob/master/Picture4.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/main1.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/main2.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/main3.jpg)
+![Alert Companions](https://github.com/aqsashaikh01/NeedUNow/blob/master/Picture4.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/main1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/main2.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/main3.jpg)
 
 
 #### Life- Saving Tips
@@ -70,17 +70,17 @@ Knowing WHAT TO DO WHEN is always helpful.
 
 NeedUNow includes a variety of tips on various Emergency Situations, to help you know how to react.
 
-![Tips Screen](https://github.com/aqsashaikh01/needunow2/blob/master/tips1.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/tips2.jpg)
+![Tips Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/tips1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/tips2.jpg)
 
 
 #### Easy Access to Helpline Numbers
 
 Most Helpline Numbers can now be accessed easily with a single tap.
 
-![Helpline Screen](https://github.com/aqsashaikh01/needunow2/blob/master/help1.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/help2.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/help3.jpg)
+![Helpline Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/help1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/help2.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/help3.jpg)
 
 
 #### Settings Menu
@@ -94,10 +94,10 @@ Settings Screen includes a variety of options for you to explore.
 - Feedback
 - About Us
 
-![Settings Screen](https://github.com/aqsashaikh01/needunow2/blob/master/settings.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/settings1.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/settings2.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/settings3.jpg)
+![Settings Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/settings.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/settings1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/settings2.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/settings3.jpg)
 
 
 #### Instructions and Help Center
@@ -106,16 +106,16 @@ Instructions Screen to guide your way through our App.
 
 Also, know why and where App Permissions are required by clicking on the ‘PERMISSIONS’ button.
 
-![Instructions Screen](https://github.com/aqsashaikh01/needunow2/blob/master/helpcenter1.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/helpcenter2.jpg)
+![Instructions Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/helpcenter1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/helpcenter2.jpg)
 
 
 #### Know Us and Connect
 
 Drop in your Feedback in the Dialog and Know more about us and our application in ‘About Us’
 
-![AboutUs Screen](https://github.com/aqsashaikh01/needunow2/blob/master/aboutus.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/feedback.jpg)
+![AboutUs Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/aboutus.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/feedback.jpg)
 
 
 #### Better UI
@@ -124,8 +124,8 @@ Improved and Easy to Use UI.
 
 Option to choose between Light Theme and Dark Theme. 
 
-![AboutUs Screen](https://github.com/aqsashaikh01/needunow2/blob/master/ui1.jpg)
-![](https://github.com/aqsashaikh01/needunow2/blob/master/ui2.jpg)
+![AboutUs Screen](https://github.com/aqsashaikh01/NeedUNow/blob/master/ui1.jpg)
+![](https://github.com/aqsashaikh01/NeedUNow/blob/master/ui2.jpg)
 
 
 
